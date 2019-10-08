@@ -28,15 +28,6 @@ programa
           parcelas=( vtotal / 6)
           escreva("\ninforme parcela 6x:",parcelas)
 
-          parcelas=( vtotal / 7)
-          escreva("\ninforme parcela 7x:",parcelas)
-
-          parcelas=( vtotal / 8)
-          escreva("\ninforme parcela 8x:",parcelas)
-
-          parcelas=( vtotal /9)
-          escreva("\ninforme parcela 9x:",parcelas)
-
           parcelas=( vtotal /10)
           escreva("\ninforme parcela 10x:",parcelas)
 
@@ -50,7 +41,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 955; 
+ * @POSICAO-CURSOR = 643; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
